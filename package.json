@@ -1,0 +1,32 @@
+{
+  "name": "WebServer",
+  "version": "0.0.1",
+  "description": "Web Server",
+  "main": "main.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "OMC-WebServer"
+  ],
+  "author": "xxx",
+  "license": "null",
+  "jshintConfig": "cjs.jshintrc",
+  "dependencies": {
+    "async": "^2.6.0",
+    "glob": "^7.1.2",
+    "mysql": "^2.15.0",
+    "socket.io": "^2.0.3",
+    "uws": "^9.147.0",
+    "ws": "^2.3.1"
+  },
+  "devDependencies": {
+    "eslint": "^3.19.0",
+    "eslint-config-standard": "^10.2.1",
+    "eslint-plugin-import": "^2.11.0",
+    "eslint-plugin-node": "^4.2.3",
+    "eslint-plugin-promise": "^3.7.0",
+    "eslint-plugin-standard": "^3.0.1",
+    "eslint-config-google": "^0.9.1"
+  }
+}

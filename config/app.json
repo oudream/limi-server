@@ -1,0 +1,15 @@
+{
+  "database": {
+    "db1": {
+      "connectionLimit": 10,
+      "dsn": "ics4000",
+      "host": "127.0.0.1",
+      "pwd": "123456",
+      "type": "mysql",
+      "user": "root"
+    }
+  },
+  "server" : {
+    "httpPort" : 9001
+  }
+}
